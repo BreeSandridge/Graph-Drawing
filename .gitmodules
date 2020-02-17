@@ -1,0 +1,3 @@
+[submodule "SGL"]
+	path = SGL
+	url = https://github.com/PeytonSandridge/SGL.git
